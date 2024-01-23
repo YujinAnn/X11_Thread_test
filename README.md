@@ -18,4 +18,4 @@ After successful compilation, you can run the executable:
 
   ./x11_test
 
-This will execute your program,
+This will execute your program.
